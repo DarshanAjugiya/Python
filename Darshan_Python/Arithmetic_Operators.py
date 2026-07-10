@@ -1,0 +1,9 @@
+a=10
+b=5
+print("Addtion Of=",a+b)#Addition
+print("Substraction Of=",a-b)#Substration
+print("Multiplication Of=",a*b)#Multiplication
+print("Division Of=",a/b)#Divition
+print("Module Of=",a%b)#Module
+print("Exponent Of=",a**b)#Exponent
+print("Integer Division Of=",a//b)#Only Show Int Value

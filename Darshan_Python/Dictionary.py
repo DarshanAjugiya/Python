@@ -1,0 +1,14 @@
+thisdict={
+    "Brand":"BMW",
+    "Model":"M5",
+    "Year":"1916"
+}
+print(thisdict)
+print(thisdict["Model"])
+print(thisdict["Year"])
+print(thisdict.keys())
+print(thisdict.values())
+print(len(thisdict))
+print(type(thisdict))
+thisdict=dict(Name="Arjun",Age=30,Contry="India");
+print(thisdict)
